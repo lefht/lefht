@@ -5,7 +5,7 @@ Site Reliability Engineer in Seattle with a software engineering background and 
 - 🔭 **Observability:** SLOs/SLIs, alerting that pages for the right reasons, dashboards people actually read
 - 🔐 **Infrastructure security:** hardening hosts, clusters, and pipelines
 - 🕸️ **Distributed systems:** Kubernetes (k3s), GitOps with Argo CD, event streaming
-- 🛡️ Co-founder of **Proxy9**, cybersecurity for small businesses and individuals
+
 
 #### Things I've built
 
