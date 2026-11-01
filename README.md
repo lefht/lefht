@@ -1,6 +1,6 @@
 ### Hi, I'm Leyth 👋
 
-Site Reliability Engineer in Seattle with a software engineering background and a Master's in Cybersecurity from the University of Washington. I work on making distributed systems observable, secure, and boring in production.
+SRE in Seattle with a software engineering and Cybersecurity background.
 
 - 🔭 **Observability:** SLOs/SLIs, alerting that pages for the right reasons, dashboards people actually read
 - 🔐 **Infrastructure security:** hardening hosts, clusters, and pipelines
